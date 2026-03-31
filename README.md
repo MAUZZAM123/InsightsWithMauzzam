@@ -1,3 +1,18 @@
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm Mauzzam
+</h1>
+
+<h3 align="center">
+  📊 Data Analyst | 📈 BI Developer | 🤖 Aspiring ML Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C948&size=24&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Building+Dashboards+that+Drive+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things" />
+</p>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on **data analysis and business intelligence projects** using Python, SQL, Excel, Power BI, and Tableau  
 
@@ -13,53 +28,70 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauzzamshaikh1104/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/MAUZZAM123)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mauzzamsk11@gmail.com)  
+## 🌐 Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/mauzzamshaikh1104/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/MAUZZAM123" target="blank">
+<img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/>
+</a>
+<a href="mailto:mauzzamsk11@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Featured Projects:
+🔹 **Sales Analytics Dashboard (Power BI)**  
+→ Built interactive dashboards to track KPIs, revenue trends, and customer behavior  
+
+🔹 **E-commerce Data Analysis (Python + SQL)**  
+→ Performed EDA, data cleaning, and generated business insights from real datasets  
+
+🔹 **Customer Segmentation (Machine Learning)**  
+→ Applied clustering techniques to identify customer groups for targeted marketing  
 
 ---
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Featured Interests:
-✔ Data Analysis & Visualization  
-✔ Business Intelligence Dashboards  
-✔ Machine Learning Projects  
-✔ Real-world Dataset Exploration  
-
----
-
-## 🔥 Current Focus:
-- Building **end-to-end analytics projects (SQL → Python → Dashboard)**  
-- Improving **data storytelling & visualization skills**  
-- Exploring **predictive analytics & ML models**  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=MAUZZAM123&icon=9&color=0)](https://visitcount.itsvg.in)
----
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MAUZZAM123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MAUZZAM123&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MAUZZAM123&theme=tokyonight" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=MAUZZAM123&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAUZZAM123&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAUZZAM123&layout=compact&theme=tokyonight" />
+</p>
 
 ---
+
+## 🧠 Currently Learning:
+- Machine Learning Algorithms  
+- Advanced Data Visualization  
+- Predictive Analytics  
+
+---
+
+## 📈 Profile Views:
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=MAUZZAM123&icon=5&color=6"/>
+</p>
